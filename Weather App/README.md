@@ -1,4 +1,5 @@
-**Weather App**
+***Weather App***
+
 A Basic weather app using Python's Tkinter library and the OpenWeatherMap API:
 
 Key Functionalities:
