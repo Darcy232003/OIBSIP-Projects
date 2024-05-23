@@ -12,4 +12,6 @@ Key Functionalities:
  * Sunrise and sunset times
 
 GUI:
-![image](https://github.com/Darcy232003/OIBSIP-4-WeatherApp/assets/155735610/8856ec46-3eaa-4c14-9bdb-43e64d0dbc70)
+
+![image](https://github.com/Darcy232003/OIBSIP-Projects/assets/155735610/d284833d-15e4-4006-8004-cb6eeb9530a1)
+
